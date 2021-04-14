@@ -8,6 +8,8 @@ Authors@R:
            email = "y.m.lambert@free.fr",
            comment = c(ORCID = "0000-0001-9020-3263"))
 Description: The MalakitR package was developed in 2018 to manage the data collected for the Malakit project. This package allows retrieving encrypted data collected with ODK Collect and stored on Ona server. Encrypted instance files may be decrypted and aggregated in a single process without using ODK Briefcase. 
+URL: https://github.com/ymlambert/malakitr
+BugReports: https://github.com/ymlambert/malakitr/issues
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
